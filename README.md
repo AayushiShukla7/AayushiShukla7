@@ -2,7 +2,7 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm a back-end web developer with keen passion in front-end development. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Currently working on a few generative art projects with JS processing (p5.js) and learning ReactJS to create blogs out of my Notion articles. I create simple Notion "how-to" documents for visual learners like me. 
+I'm a back-end web developer with keen passion in front-end development. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Currently working on a few generative art projects with JS processing (p5.js) and learning AngularJS to create blogs out of my Notion articles. I create simple Notion "how-to" documents for visual learners like me. 
 
 ---
 
